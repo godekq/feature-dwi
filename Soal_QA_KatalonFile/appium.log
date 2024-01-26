@@ -1,0 +1,32 @@
+[35m[Appium][39m Welcome to Appium v1.22.1
+[35m[Appium][39m Non-default server args:
+[35m[Appium][39m   port: 62240
+[35m[Appium][39m   loglevel: info
+[35m[Appium][39m   tmpDir: C:\Users\wahyu\AppData\Local\Temp\\Katalon\Appium\Temp1706175262175
+[35m[Appium][39m Appium REST http interface listener started on 0.0.0.0:62240
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/status[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/status [39m[32m200[39m [90m7 ms - 68[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/status[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/status [39m[32m200[39m [90m3 ms - 68[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session[39m
+[35m[HTTP][39m [90m{"desiredCapabilities":{"appActivity":".Settings","appPackage":"com.android.settings","newCommandTimeout":1800,"platformVersion":"11","automationName":"uiautomator2","autoGrantPermissions":true,"platformName":"Android","udid":"f886caec","deviceName":"Xiaomi Redmi Note 8 (Android 11)","systemPort":8262},"capabilities":{"firstMatch":[{"appium:appActivity":".Settings","appium:appPackage":"com.android.settings","appium:autoGrantPermissions":true,"appium:automationName":"uiautomator2","appium:deviceName":"Xiaomi Redmi Note 8 (Android 11)","appium:newCommandTimeout":1800,"platformName":"android","appium:platformVersion":"11","appium:systemPort":8262,"appium:udid":"f886caec"}]}}[39m
+[35m[Appium][39m Appium v1.22.1 creating new AndroidUiautomator2Driver (v1.70.1) session
+[35m[BaseDriver][39m Session created with session id: edb2e400-ac17-4a71-acb7-21740e7caa02
+[35m[UiAutomator2][39m Starting 'com.android.settings' directly on the device
+[35m[ADB][39m Found 1 'build-tools' folders under 'C:\Users\wahyu\.katalon\tools\android_sdk' (newest first):
+[35m[ADB][39m     C:/Users/wahyu/.katalon/tools/android_sdk/build-tools/29.0.3
+[35m[ADB][39m Using 'adb.exe' from 'C:\Users\wahyu\.katalon\tools\android_sdk\platform-tools\adb.exe'
+[35m[AndroidDriver][39m Retrieving device list
+[35m[AndroidDriver][39m Using device: f886caec
+[35m[ADB][39m Using 'adb.exe' from 'C:\Users\wahyu\.katalon\tools\android_sdk\platform-tools\adb.exe'
+[35m[ADB][39m Getting device platform version
+[35m[UiAutomator2][39m Relaxing hidden api policy
+[35m[UiAutomator2][39m Unable to remove system port forward: Error executing adbExec. Original error: 'Command 'C:\\Users\\wahyu\\.katalon\\tools\\android_sdk\\platform-tools\\adb.exe -P 5037 -s f886caec forward --remove tcp\:8262' exited with code 1'; Command output: adb.exe: error: listener 'tcp:8262' not found
+[35m[UiAutomator2][39m 
+[35m[UiAutomator2][39m Restoring hidden api policy to the device default configuration
+[35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[31m500[39m [90m1683 ms - 10361[39m
+[35m[HTTP][39m [90m[39m

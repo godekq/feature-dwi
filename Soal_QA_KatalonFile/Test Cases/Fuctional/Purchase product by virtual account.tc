@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Purchase product by virtual account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>305bc5ee-acc9-4abd-bc31-3ce14692dbf3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ed2a39a0-6e26-4a57-adb5-ad957cd83c9c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ed2a39a0-6e26-4a57-adb5-ad957cd83c9c</id>
+      <masked>false</masked>
+      <name>InputNumber</name>
+   </variable>
+</TestCaseEntity>

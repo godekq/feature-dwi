@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sign In with invalid number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3bef7c0-f93e-47e9-b387-dd8f2dc74df0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5a1d0a26-0e7d-4c9d-a0e4-435817826bfd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a1d0a26-0e7d-4c9d-a0e4-435817826bfd</id>
+      <masked>false</masked>
+      <name>InputNumber</name>
+   </variable>
+</TestCaseEntity>

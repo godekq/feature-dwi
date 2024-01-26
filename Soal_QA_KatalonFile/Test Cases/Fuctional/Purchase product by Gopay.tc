@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Purchase product by Gopay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9734a7cb-09fa-40cb-93ad-d5beae1aee89</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a0d938a4-89ed-44ff-8968-2836b6a982d8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a0d938a4-89ed-44ff-8968-2836b6a982d8</id>
+      <masked>false</masked>
+      <name>InputNumber</name>
+   </variable>
+</TestCaseEntity>

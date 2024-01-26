@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Nomor_14",
+            "request": "launch",
+            "mainClass": "Test_BLQ.Nomor_14",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Nomor_14",
+            "request": "launch",
+            "mainClass": "Nomor_14",
+            "projectName": "Py_8c7d5da1"
+        },
+        {
+            "type": "java",
+            "name": "Soal_14",
+            "request": "launch",
+            "mainClass": "Test_BLQ.Soal_14",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Soal_14",
+            "request": "launch",
+            "mainClass": "Test_BLQ.Soal_14.Soal_14",
+            "projectName": "Py_8c7d5da1"
+        },
+        {
+            "type": "java",
+            "name": "Soal_14",
+            "request": "launch",
+            "mainClass": "Test_BLQ.Soal_14",
+            "projectName": "Py_8c7d5da1"
+        },
+        {
+            "type": "java",
+            "name": "Soal_14",
+            "request": "launch",
+            "mainClass": "Soal_14",
+            "projectName": "Py_8c7d5da1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sign In</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d431742b-ddf6-4d23-a63a-172ea96ae99c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5cacedbc-af37-4047-a312-c0ef611cf6c4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5cacedbc-af37-4047-a312-c0ef611cf6c4</id>
+      <masked>false</masked>
+      <name>InputNumber</name>
+   </variable>
+</TestCaseEntity>
